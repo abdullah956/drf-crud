@@ -1,1 +1,1 @@
-# drf-drinks
+# drf-crud
